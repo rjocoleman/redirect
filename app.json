@@ -1,0 +1,6 @@
+{
+  "name": "Redirection",
+  "description": "Simple 302 redirects based on subdomains",
+  "repository": "https://github.com/rjocoleman/redirect/",
+  "success_url": "/"
+}
